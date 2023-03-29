@@ -45,7 +45,7 @@ Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones 
 
 ## Los retos de programación de la comunidad MaureDev:
 
-![https://retosdeprogramacion.com](./mouredev_retos_programacion.png)
+![https://retosdeprogramacion.com]([./mouredev_retos_programacion.png](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_retos_programacion.png))
 
 ### Retos Semanales y Mensuales para mejorar nuestra lógica de programación y portfolio de aplicaciones [retosdeprogramacion.com](https://retosdeprogramacion.com)
 
