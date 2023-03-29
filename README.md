@@ -12,9 +12,8 @@
 
 Soy Estudiante de software profesional desde el 2022 en el [**instituto Providencial Profesiona**](https://ipp.cl/).
 
-En 2021 dejé mi trabajo como programaodor en sistema de seguridad electronica y creé [**3lvisDev**](https://), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software y creacion de videojuegos.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles y sistema operativos.
-En 2018 llegue a la ciudad actual en Santiago (Chile), y empiezo a crear contenido de programación en Python y Servidores de VideoJuegos
+En 2021 dejé mi trabajo como programador en sistema de seguridad en circuito cerrado y creé [**3lvisDev**](https://), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software y creacion de videojuegos.
+Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles y sistema operativos y desarrollo en lenguaje de programacion para videojuegos. En 2018 llegue a la ciudad actual en Santiago (Chile), y empiezo a crear contenido de programación en Python y Servidores de VideoJuegos
 
 
 ## Tecnologías:
