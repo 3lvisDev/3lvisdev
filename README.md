@@ -10,9 +10,9 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy Estudiante de software profesional desde el 2022 en el instituto Providencial Profesional.
+Soy Estudiante de software profesional desde el 2022 en el [**instituto Providencial Profesiona**](https://ipp.cl/).
 
-En 2021 dejé mi trabajo como programaodor en sistema de seguridad electronica y creé [**3lvisDev**](https://, el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software y creacion de videojuegos.
+En 2021 dejé mi trabajo como programaodor en sistema de seguridad electronica y creé [**3lvisDev**](https://), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software y creacion de videojuegos.
 Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles y sistema operativos.
 En 2018 llegue a la ciudad actual en Santiago (Chile), y empiezo a crear contenido de programación en Python y Servidores de VideoJuegos
 
