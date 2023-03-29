@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Elvis Da Silva 👋
+# ![]() Hola, mi nombre es Elvis Da Silva 👋
 ### Freelance Apprentice Dev
 
 Soy Estudiante de software profesional desde el 2022 en el [**instituto Providencial Profesiona**](https://ipp.cl/).
