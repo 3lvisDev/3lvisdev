@@ -1,27 +1,31 @@
 # ![]() Hola, mi nombre es Elvis Da Silva 👋
-### Freelance Apprentice Dev
+### Analista de Sistemas Creativo y Apasionado
 
-Soy Estudiante de software profesional desde el 2022 en el [**instituto Providencial Profesional**](https://ipp.cl/).
+¡Hola! Soy Elvis, un apasionado analista de sistemas con un enfoque en la resolución creativa de problemas. Mi objetivo es combinar la lógica con la imaginación para diseñar soluciones innovadoras que impulsen el éxito de los proyectos.
 
-En 2021 dejé mi trabajo como programador en sistema de seguridad en circuito cerrado y creé [**3lvisDev**](https://), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software y creacion de videojuegos.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles y sistema operativos y desarrollo en lenguaje de programacion para videojuegos. En 2018 llegue a la ciudad actual en Santiago (Chile), y empiezo a crear contenido de programación en Python y Servidores de VideoJuegos
+### Experiencia Profesional
+* 3lvisDev (Fundador y Desarrollador Principal)
+* Creación de aplicaciones móviles y sistemas operativos.
+* Desarrollo de videojuegos en lenguajes como Python y C#.
+* Implementación de soluciones eficientes y escalables.
+* Anteriormente: Programador en sistemas de seguridad en circuito cerrado.
+* Diseño e implementación de sistemas de vigilancia.
+* Optimización de algoritmos para detección de intrusos.
+
+## Habilidades Clave
+* Análisis de Datos: Transformo datos en ideas accionables.
+* Resolución Creativa de Problemas: Encuentro soluciones únicas.
+* Desarrollo de Software: Creo aplicaciones que marcan la diferencia
+
+## Educación
+* Instituto Providencial Profesional
+* Estudiante de Software Profesional (desde 2022).
 
 
-## Mis guías de estudio iOS y Android:
-[![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
-[![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
+### Proyectos Destacados
+* Sistema de Seguridad Inteligente: Diseñé un sistema de seguridad basado en visión por computadora que detecta patrones de comportamiento anómalos en tiempo real.
+* Aplicación Móvil de Salud: Desarrollé una aplicación para seguimiento de salud que utiliza gamificación para motivar a los usuarios a mantener hábitos saludables.
 
-## Los retos de programación de la comunidad MaureDev:
+### Contacto
 
-![https://retosdeprogramacion.com]([https://cdn.discordapp.com/attachments/777635119593947146/1090691387684573284/mouredev_retos_programacion.png])
-
-### Retos Semanales y Mensuales para mejorar nuestra lógica de programación y portfolio de aplicaciones [retosdeprogramacion.com](https://retosdeprogramacion.com)
-
-### Semanales
-
-Uso cada semana un nuevo reto para mejorar nuestra lógica de programación en este programa de MaureDev
-
-[![GitHub Weekly 2023](https://img.shields.io/github/stars/mouredev/retos-programacion-2023?label=Retos%20Semanales%202023&style=social)](https://github.com/mouredev/retos-programacion-2023)
-[![GitHub Weekly Kotlin 2022](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
-[![GitHub Weekly Swift 2022](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Retos%20Semanales%20Swift%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
-
+![https://www.linkedin.com/in/elvis-da-silva-7a2ba2254/]([[https://cdn.discordapp.com/attachments/777635119593947146/1090691387684573284/mouredev_retos_programacion.png](https://th.bing.com/th/id/R.eae4d0ee63a360e0f6b0d2b151d9da34?rik=u6x6HrEDGbQC%2fQ&pid=ImgRaw&r=0)])
