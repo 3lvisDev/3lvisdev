@@ -27,5 +27,4 @@
 * Aplicación Móvil de Salud: Desarrollé una aplicación para seguimiento de salud que utiliza gamificación para motivar a los usuarios a mantener hábitos saludables.
 
 ### Contacto
-
-![https://www.linkedin.com/in/elvis-da-silva-7a2ba2254/](https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png)])
+[![LinkedIn][(https://ejemplo.com/imagen.png](https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png))]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/elvis-da-silva-7a2ba2254))
