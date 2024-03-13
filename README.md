@@ -21,8 +21,8 @@
 
 
 ### Proyectos Destacados
-* Sistema de Seguridad Inteligente: Diseñé un sistema de seguridad basado en visión por computadora que detecta patrones de comportamiento anómalos en tiempo real.
-* Aplicación Móvil de Salud: Desarrollé una aplicación para seguimiento de salud que utiliza gamificación para motivar a los usuarios a mantener hábitos saludables.
+*
+* 
 
 ### Contacto
 [![LinkedIn](https://pivot-cro.com/wp-content/uploads/2021/03/57-571884_100-linkedin-logo-latest-logo-icon-gif-round.jpg)](https://www.linkedin.com/in/elvis-da-silva-7a2ba2254)
