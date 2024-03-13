@@ -6,11 +6,9 @@
 ### Experiencia Profesional
 * 3lvisDev (Fundador y Desarrollador Principal)
 * Creación de aplicaciones móviles y sistemas operativos.
-* Desarrollo de videojuegos en lenguajes como Python y C#.
 * Implementación de soluciones eficientes y escalables.
 * Anteriormente: Programador en sistemas de seguridad en circuito cerrado.
 * Diseño e implementación de sistemas de vigilancia.
-* Optimización de algoritmos para detección de intrusos.
 
 ## Habilidades Clave
 * Análisis de Datos: Transformo datos en ideas accionables.
