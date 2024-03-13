@@ -19,7 +19,7 @@
 
 ## Educación
 * Instituto Providencial Profesional
-* Estudiante de Software Profesional (desde 2022).
+* Carrera: Analista De Sistema
 
 
 ### Proyectos Destacados
@@ -28,4 +28,4 @@
 
 ### Contacto
 
-![https://www.linkedin.com/in/elvis-da-silva-7a2ba2254/]([[https://cdn.discordapp.com/attachments/777635119593947146/1090691387684573284/mouredev_retos_programacion.png](https://th.bing.com/th/id/R.eae4d0ee63a360e0f6b0d2b151d9da34?rik=u6x6HrEDGbQC%2fQ&pid=ImgRaw&r=0)])
+![https://www.linkedin.com/in/elvis-da-silva-7a2ba2254/](https://th.bing.com/th/id/R.eae4d0ee63a360e0f6b0d2b151d9da34?rik=u6x6HrEDGbQC%2fQ&pid=ImgRaw&r=0)])
