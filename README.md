@@ -21,9 +21,9 @@
 
 
 ### Proyectos Destacados
-*
+* Serivicio de Gestion de Llamada Totem y Cliente
 * 
 
 ### Contacto
 [![LinkedIn](https://pivot-cro.com/wp-content/uploads/2021/03/57-571884_100-linkedin-logo-latest-logo-icon-gif-round.jpg)](https://www.linkedin.com/in/elvis-da-silva-7a2ba2254)
-
+* https://www.linkedin.com/in/elvis-da-silva-7a2ba2254/
