@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/3lvisDev/3lvisDev/main/elvis_github_banner.png" width="100%" alt="Elvis Da Silva Banner">
+  <img src="https://raw.githubusercontent.com/3lvisDev/3lvisdev/main/elvis_github_banner.png" width="100%" alt="Elvis Da Silva Banner">
 </div>
 
-# Hi there, I'm Elvis! 👋
+# ¡Hola, soy Elvis! 👋
 
 ### 🚀 Senior Full Stack Developer | 🛡️ Cybersecurity Enthusiast | 🤖 Automation Expert
 
-I am a passionate systems analyst focused on creating innovative, scalable, and secure solutions. My philosophy follows the **"Always Run"** principle: building systems that are resilient, automated, and high-performing.
+Soy un analista de sistemas apasionado por crear soluciones innovadoras, escalables y seguras. Mi filosofía se basa en el principio **"Always Run"**: construir sistemas resilientes, automatizados y de alto rendimiento que nunca se detienen.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
@@ -26,32 +26,32 @@ I am a passionate systems analyst focused on creating innovative, scalable, and 
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3lvisDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Elvis's Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3lvisDev&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3lvisDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats de Elvis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3lvisDev&layout=compact&theme=tokyonight" alt="Lenguajes Top">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3lvisDev&theme=tokyonight" alt="Elvis's Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3lvisDev&theme=tokyonight" alt="Streak de Elvis">
 </div>
 
 ---
 
-### 🌟 Project Spotlight: BOT_HackLabH
+### 🌟 Proyecto Destacado: BOT_HackLabH
 
-My most recent major project is a professional Discord Bot integration system featuring:
-- **🖥️ Dashboard Elite**: A premium web interface with Glassmorphism for real-time management.
-- **🔐 Secret Sync**: Automated synchronization between local environment and GitHub Secrets.
-- **📦 CI/CD Pipeline**: Continuous deployment to Raspberry Pi using GitHub Actions.
-- **🎵 Music Engine 2.0**: High-fidelity audio with Lavalink integration.
+Mi proyecto principal más reciente es un sistema profesional de integración de bots de Discord que incluye:
+- **🖥️ Dashboard Elite**: Interfaz web premium con Glassmorphism para gestión en tiempo real.
+- **🔐 Secret Sync**: Sincronización automatizada entre el entorno local y los Secrets de GitHub.
+- **📦 CI/CD Pipeline**: Despliegue continuo hacia Raspberry Pi vía GitHub Actions.
+- **🎵 Music Engine 2.0**: Audio de alta fidelidad con integración Lavalink.
 
-👉 [Check it out here!](https://github.com/3lvisDev/BOT_HackLabH)
+👉 [¡Échale un vistazo aquí!](https://github.com/3lvisDev/BOT_HackLabH)
 
 ---
 
-### 📫 Connect with me
+### 📫 Conecta conmigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/elvis-da-silva-02209121a/" target="_blank">
@@ -62,5 +62,5 @@ My most recent major project is a professional Discord Bot integration system fe
 ---
 
 <p align="center">
-  <i>"Success is where preparation meets opportunity. Always Run."</i>
+  <i>"El éxito es donde la preparación y la oportunidad se encuentran. Always Run."</i>
 </p>
